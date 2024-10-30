@@ -29,7 +29,7 @@ The code begins by generating random matrices (X and Y) of sizes 3x4 3×4 and 4x
 - **Optimization Insight:** Stabilized values indicate convergence, helping gauge when the model has minimized error effectively.
 
 ![F1 Graph](images/f1Graph.png)
-![F2 Graph](images/f2Graph.png)
+![F2 Graph](images/fwGraph.png)
 
 ## Conclusion
 
